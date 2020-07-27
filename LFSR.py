@@ -36,6 +36,7 @@ L2.info()
 #hasta encontrar un patron
 timeseq= L2.runKCycle(10)
 print(timeseq)
+L2.info()
 #L.info()
 
 #L
